@@ -1,0 +1,16 @@
+
+.winner{
+    color: green;
+}
+.player1{
+    background-image: url("player1.jpg");
+}
+.player2{
+    background-image: url("player2.png");
+}
+.p1wins{
+    background-image: url("player1wins.jpg");
+}
+.p2wins{
+    background-image: url("player2wins.png");
+}
